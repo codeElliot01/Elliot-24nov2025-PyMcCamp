@@ -50,7 +50,14 @@ def addition( number1, number2):
 addition(243, 236)
 ########################################################################
 # Additional exercises:
+# Rearrange the lines of code below such that the output of the program is:
+
+## Hey
+## This is really simple but important
+## Python reads from the top to the bottom
+## Bye
 print("Hey")
 print("This is really simple but important")
 print("Python reads from the top to the bottom")
 print("Bye")
+
