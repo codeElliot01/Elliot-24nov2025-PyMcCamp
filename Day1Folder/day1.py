@@ -51,6 +51,7 @@ addition(243, 236)
 ########################################################################
 # Additional exercises:
 print("Hey")
-print("Python reads from the top to the bottom")
 print("This is really simple but important")
+print("Python reads from the top to the bottom")
+
 print("Bye")
