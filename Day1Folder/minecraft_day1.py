@@ -44,3 +44,11 @@ def obby1():
     agent.move(DOWN, 1)
 
 ################## On Chat Commands Section #####################
+player.on_chat("come", Teleport)
+player.on_chat("mf", move_forward)
+player.on_chat("mb", move_back)
+player.on_chat("mu", move_up)
+player.on_chat("md", move_down)
+player.on_chat("tl", turn_left)
+player.on_chat("tr", turn_right)
+player.on_chat("obby1", obby1)
