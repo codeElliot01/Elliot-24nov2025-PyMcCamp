@@ -70,7 +70,7 @@ ans = input( "What is the addition of " + str(num1) + "+" + str(num2) + "?")
 def addition ( num1, num2 ):
     correct_ans = (num1, num2)
 addition(num1, num2)
-if ans == ans:
+if ans == correct_ans:
     print( "You are smart!")
 else:
     print( "Go and see the principal!")
