@@ -6,6 +6,7 @@ print("hello from day3")
 # Task 1:
 name = "Elliot"
 title= "sir"
+
 input(name)
 
 
