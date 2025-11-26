@@ -45,7 +45,7 @@ print("hello from day3")
 #     print(age2 + " is older than " + age1)
 ########################################################################
 # Task 6:
-5555 = input("what is the password?")
+bacon = input("what is the password?")
 if bacon:
     print("access granted!")
 else:
