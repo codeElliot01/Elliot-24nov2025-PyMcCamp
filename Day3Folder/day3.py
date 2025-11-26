@@ -47,7 +47,7 @@ else:
 # Task 6:
 real_password = input("passme")
 if real_password:
-    print(C)
+    print("acess granted!")
 
 
 ########################################################################
