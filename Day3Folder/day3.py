@@ -32,7 +32,7 @@ price = int(input( " What is the price of the item?"))
 units = int(input( " how many are you buying?"))
 def multiplication ( price, units ):
     print ( "The price of your item is " + (price* units))
-multiplication(price * units)
+multiplication (price * units)
 
 
 ########################################################################
