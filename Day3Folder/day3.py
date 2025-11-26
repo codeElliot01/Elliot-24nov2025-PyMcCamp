@@ -32,7 +32,7 @@ price = int(input( " What is the price of the item?"))
 units = int(input( " how many are you buying?"))
 def total_cost ( price, units ):
     print ( "The price of your item is $" + str(price* units))
-multiplication (price, units)
+total_cost (price, units)
 
 
 ########################################################################
