@@ -66,7 +66,7 @@ print("hello from day3")
 import random
 num1 = random.randint(1, 100)
 num2 = random.randint(1, 100)
-ans = input( "What is the addition of " + num1 + "+" + num2 + "?")
+ans = input( "What is the addition of " + str(num1 + "+" + num2 + "?")
 
 
 
