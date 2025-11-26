@@ -68,7 +68,7 @@ num1 = random.randint(1, 100)
 num2 = random.randint(1, 100)
 ans = input( "What is the addition of " + str(num1) + "+" + str(num2) + "?")
 def addition ( num1, num2 ):
-    ans = (num1, num2)
+    correct_ans = (num1, num2)
 addition(num1, num2)
 if ans == ans:
     print( "You are smart!")
