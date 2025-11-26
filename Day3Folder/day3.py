@@ -12,6 +12,7 @@ print ( name + "is" + title + " so he ask his mother to" +command)
 ########################################################################
 # Task 2:
 name = Elliot
+num_pens
 
 
 
