@@ -56,7 +56,7 @@ print("hello from day3")
 ########################################################################
 # Task 7:
 import random
-rng = random.randint(1.)
+rng = random.randint(1, )
 
 
 
