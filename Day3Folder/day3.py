@@ -67,6 +67,7 @@ import random
 num1 = random.randint(1, 100)
 num2 = random.randint(1, 100)
 ans = input( "What is the addition of " + str(num1) + "+" + str(num2) + "?")
+wrong_ans
 
 
 
