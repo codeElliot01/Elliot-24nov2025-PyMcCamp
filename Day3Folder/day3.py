@@ -7,7 +7,7 @@ print("hello from day3")
 name = input ("What is my name?")
 title = input ("what is my title?")
 command = input ("What is my command?")
-print ( title + name +"")
+print ( title + name +"is hungry so")
 
 ########################################################################
 # Task 2:
