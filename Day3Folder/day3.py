@@ -4,10 +4,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-name = "Elliot"
-title= "sir"
-command= "eat your food"
-input (title + name + commands )
+name = input ("Where is the best place to buy a gold fish?")
+
 
 
 
