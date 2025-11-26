@@ -37,12 +37,12 @@ print("hello from day3")
 
 ########################################################################
 # Task 5:
-age1 = int(input("Age1"))
-age2 = int(input("Age2"))
-if age1 > age2:
-    print(age1 + " is older than " + age2)
-else:
-    print(age2 + " is older than " + age1)
+# age1 = int(input("Age1"))
+# age2 = int(input("Age2"))
+# if age1 > age2:
+#     print(age1 + " is older than " + age2)
+# else:
+#     print(age2 + " is older than " + age1)
 ########################################################################
 # Task 6:
 real_password = input("passme")
