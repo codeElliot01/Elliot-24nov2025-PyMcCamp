@@ -28,18 +28,19 @@ print("hello from day3")
 # addition(num1, num2)
 ########################################################################
 # Task 4:
-price = int(input( " What is the price of the item?"))
-units = int(input( " how many are you buying?"))
-def total_cost ( price, units ):
-    print ( "The price of your item is $" + str(price* units))
-total_cost (price, units)
+# price = int(input( " What is the price of the item?"))
+# units = int(input( " how many are you buying?"))
+# def total_cost ( price, units ):
+#     print ( "The price of your item is $" + str(price* units))
+# total_cost (price, units)
 
 
 ########################################################################
 # Task 5:
 age1 = int(input("Age1"))
 age2 = int(input("Age2"))
-
+if age1 > age2:
+    print
 
 ########################################################################
 # Task 6:
