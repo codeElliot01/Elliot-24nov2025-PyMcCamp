@@ -73,6 +73,7 @@ addition(num1, num2)
 if ans == ans:
     print( "You are smart!")
 else:
+    print( "")
 
 
 
