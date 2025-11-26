@@ -67,10 +67,10 @@ import random
 num1 = random.randint(1, 100)
 num2 = random.randint(1, 100)
 num1 = int(input ( "first number?"))
-# num2 = int(input ( "second number?"))
-# def addition ( num1, num2 ):
-#     print (num1 + num2)
-# addition(num1, num2)
+num2 = int(input ( "second number?"))
+def addition ( num1, num2 ):
+    print (num1 + num2)
+addition(num1, num2)
 
 
 
