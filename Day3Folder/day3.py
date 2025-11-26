@@ -65,7 +65,7 @@ for count in range(1, 11):
 # Task 8:
 import random
 num1 = random.randint(1, 100)
-num2 = random.randint()
+num2 = random.randint(1, 100)
 
 
 ########################################################################
