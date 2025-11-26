@@ -47,7 +47,7 @@ print("hello from day3")
 # Task 6:
 bacon = input("what is the password?")
 real_password = "passme"
-if bacon:
+if bacon == passme:
     print("access granted!")
 else:
     print("access denied!")
