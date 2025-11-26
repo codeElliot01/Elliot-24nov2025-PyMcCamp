@@ -28,7 +28,7 @@ def addition ( num1, num2 ):
 addition(num1, num2)
 ########################################################################
 # Task 4:
-price = int(input( " "))
+price = int(input( " What is the price of the item youa"))
 units = int(input( " how many are you buying?"))
 
 
