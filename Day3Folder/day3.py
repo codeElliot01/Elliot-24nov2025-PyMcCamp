@@ -30,6 +30,7 @@ addition(num1, num2)
 # Task 4:
 price = int(input( " What is the price of the item?"))
 units = int(input( " how many are you buying?"))
+def multiplication ( num1, num2 ):
 
 
 ########################################################################
