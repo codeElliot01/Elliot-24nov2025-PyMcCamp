@@ -15,14 +15,15 @@ print("hello from day3")
 # num_pens = 20
 # print (name + " bought " + str(num_pens) + " pens.")
 
-name = input ("What is my name?")
-num_pens = input ("How many pens are you going to buy?")
-print ( name + " bought " + str(num_pens) + " pens.")
+# name = input ("What is my name?")
+# num_pens = input ("How many pens are you going to buy?")
+# print ( name + " bought " + str(num_pens) + " pens.")
 
 ########################################################################
 # Task 3:
-num1 = input 
-
+num1 = input ( "first number?")
+num2 = input (  "second number?")
+print (num1 + "+" + num2 + "=" )
 
 ########################################################################
 # Task 4:
