@@ -31,7 +31,7 @@ print("hello from day3")
 price = int(input( " What is the price of the item?"))
 units = int(input( " how many are you buying?"))
 def multiplication ( price, units ):
-    print (price * units)
+    print ()
 multiplication(price * units)
 
 
