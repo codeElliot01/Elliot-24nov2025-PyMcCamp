@@ -46,7 +46,7 @@ print("hello from day3")
 ########################################################################
 # Task 6:
 5555 = input("what is the password?")
-if real_password:
+if 5555:
     print("access granted!")
 else:
     print("access denied!")
