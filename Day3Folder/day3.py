@@ -45,16 +45,17 @@ print("hello from day3")
 #     print(age2 + " is older than " + age1)
 ########################################################################
 # Task 6:
-bacon = input("what is the password?")
-real_password = "passme"
-if bacon == real_password:
-    print("access granted!")
-else:
-    print("access denied!")
+# bacon = input("what is the password?")
+# real_password = "passme"
+# if bacon == real_password:
+#     print("access granted!")
+# else:
+#     print("access denied!")
 
 
 ########################################################################
 # Task 7:
+
 
 
 
