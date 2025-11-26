@@ -4,7 +4,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-name = Elliot
+name = "Elliot"
 input(name)
 
 
