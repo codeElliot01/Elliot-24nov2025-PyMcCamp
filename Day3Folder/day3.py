@@ -4,7 +4,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-name = input ("Where is the best place to buy a gold fish?")
+name = input ("Where is my name?")
 
 
 
