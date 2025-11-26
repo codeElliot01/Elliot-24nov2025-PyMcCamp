@@ -23,7 +23,8 @@ print("hello from day3")
 # Task 3:
 num1 = input ( "first number?")
 num2 = input ( "second number?")
-print (num1 + num2 + "= 60" )
+
+print (num1 + num2)
 
 ########################################################################
 # Task 4:
