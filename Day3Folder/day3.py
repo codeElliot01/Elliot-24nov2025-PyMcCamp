@@ -58,7 +58,7 @@ print("hello from day3")
 for count in range(1, 11):
     import random
     rng = random.randint(1, 100)
-print (count)
+    print (count)
 
 
 ########################################################################
