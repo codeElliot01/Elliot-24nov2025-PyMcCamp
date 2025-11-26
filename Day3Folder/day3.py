@@ -55,7 +55,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 7:
-import rando
+import random
 
 
 
