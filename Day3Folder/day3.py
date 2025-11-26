@@ -16,7 +16,8 @@ print("hello from day3")
 # print (name + " bought " + str(num_pens) + " pens.")
 
 name = input ("What is my name?")
-num_pens = input ("How many pens")
+num_pens = input ("How many pens are you going to buy?")
+
 
 ########################################################################
 # Task 3:
