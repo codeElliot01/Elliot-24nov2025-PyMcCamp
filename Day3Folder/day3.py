@@ -21,17 +21,17 @@ print("hello from day3")
 
 ########################################################################
 # Task 3:
-num1 = int(input ( "first number?"))
-num2 = int(input ( "second number?"))
-def addition ( num1, num2 ):
-    print (num1 + num2)
-addition(num1, num2)
+# num1 = int(input ( "first number?"))
+# num2 = int(input ( "second number?"))
+# def addition ( num1, num2 ):
+#     print (num1 + num2)
+# addition(num1, num2)
 ########################################################################
 # Task 4:
 price = int(input( " What is the price of the item?"))
 units = int(input( " how many are you buying?"))
 def multiplication ( num1, num2 ):
-    print (num1)
+    print ()
 
 
 ########################################################################
