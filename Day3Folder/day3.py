@@ -25,7 +25,7 @@ num1 = input ( "first number?")
 num2 = input ( "second number?")
 def addition ( num1, num2 ):
     print (num1 + num2)
-addition(num1)
+addition(num1, num2)
 ########################################################################
 # Task 4:
 
