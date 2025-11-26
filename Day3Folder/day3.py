@@ -71,7 +71,8 @@ def addition ( num1, num2 ):
     ans = (num1, num2)
 addition(num1, num2)
 if ans == ans:
-    print( "You are smart")
+    print( "You are smart!")
+else:
 
 
 
