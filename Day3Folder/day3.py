@@ -30,7 +30,7 @@ print("hello from day3")
 # Task 4:
 price = int(input( " What is the price of the item?"))
 units = int(input( " how many are you buying?"))
-def multiplication ( price, units ):
+def total_ ( price, units ):
     print ( "The price of your item is $" + str(price* units))
 multiplication (price, units)
 
