@@ -49,7 +49,7 @@ real_password = input("passme")
 if real_password:
     print("acess granted!")
 else:
-    print("acess")
+    print("acess denied!")
 
 
 ########################################################################
