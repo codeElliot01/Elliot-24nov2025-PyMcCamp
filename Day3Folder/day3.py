@@ -70,6 +70,8 @@ ans = input( "What is the addition of " + str(num1) + "+" + str(num2) + "?")
 def addition ( num1, num2 ):
     ans = (num1, num2)
 addition(num1, num2)
+if ans == ans:
+    
 
 
 
