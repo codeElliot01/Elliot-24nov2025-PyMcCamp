@@ -37,7 +37,7 @@ total_cost (price, units)
 
 ########################################################################
 # Task 5:
-age1 = int(input(A))
+age1 = int(input("Age1"))
 
 
 
