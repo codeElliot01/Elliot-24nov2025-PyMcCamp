@@ -45,7 +45,7 @@ print("hello from day3")
 #     print(age2 + " is older than " + age1)
 ########################################################################
 # Task 6:
-real_password = input("what is the password?")
+5555 = input("what is the password?")
 if real_password:
     print("access granted!")
 else:
