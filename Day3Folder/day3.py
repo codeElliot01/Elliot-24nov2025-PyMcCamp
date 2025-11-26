@@ -6,7 +6,7 @@ print("hello from day3")
 # Task 1:
 name = "Elliot"
 title= "sir"
-command= "eat "
+command= "eat your food"
 input(name)
 
 
