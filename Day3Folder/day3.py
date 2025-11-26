@@ -7,7 +7,7 @@ print("hello from day3")
 name = "Elliot"
 title= "sir"
 command= "eat your food"
-input(title + name)
+input(title + name + c)
 
 
 
