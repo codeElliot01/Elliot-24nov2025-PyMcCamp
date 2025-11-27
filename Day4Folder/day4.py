@@ -20,7 +20,7 @@ while counter < 10:
 #     counter -= 1
 ########################################################################
 # Task 2:
-riddle = input( "Why was the sailor upset over his report card?")
+riddle = input("Why was the sailor upset over his report card?")
 ans = "His grades were at sea level"
 while riddle != ans:
     riddle = input( "Why was the sailor upset over his report card?")
