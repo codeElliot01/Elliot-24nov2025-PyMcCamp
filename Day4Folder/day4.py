@@ -26,5 +26,6 @@ if riddle == ans:
     print ( "correct!")
 else:
     counter = ans
+    
 ########################################################################
 # Additional exercises
