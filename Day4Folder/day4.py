@@ -15,7 +15,7 @@ print("hello from day4")
 #     counter += 1
 
 counter = 50
-while counter > 1:
+while counter > 0:
     print (counter)
     counter -= 1
 ########################################################################
