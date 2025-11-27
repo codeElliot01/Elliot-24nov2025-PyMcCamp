@@ -25,6 +25,7 @@ ans = "His grades were at sea level"
 if riddle == ans:
     counter = ans
     print ( "correct!")
-    counter
+    counter += 1
+    
 ########################################################################
 # Additional exercises
