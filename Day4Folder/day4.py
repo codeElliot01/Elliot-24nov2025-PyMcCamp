@@ -20,8 +20,8 @@ while counter > 0:
     counter -= 1
 ########################################################################
 # Task 2:
-riddle = input( has to be broken before you can use it?)
-ans = "an egg"
+riddle = input( "Why was the sailor upset over his report card?")
+ans = "His grades were at sea level"
 
 ########################################################################
 # Additional exercises
