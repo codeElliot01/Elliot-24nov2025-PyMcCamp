@@ -33,7 +33,8 @@ while counter < 5:
     ans = "an eyeball"
 if riddle != ans:
     print ("correct")
-else
+else:
+    print ("wrong")
 
 ########################################################################
 # Additional exercises
