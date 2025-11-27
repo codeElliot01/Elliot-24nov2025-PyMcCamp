@@ -14,14 +14,16 @@ print("hello from day4")
 #     print (counter)
 #     counter += 1
 
-counter = 50
-while counter > 0:
-    print (counter)
-    counter -= 1
+# counter = 50
+# while counter > 0:
+#     print (counter)
+#     counter -= 1
 ########################################################################
 # Task 2:
 riddle = input( "Why was the sailor upset over his report card?")
 ans = "His grades were at sea level"
+if riddle == ans:
+    wh
 
 ########################################################################
 # Additional exercises
