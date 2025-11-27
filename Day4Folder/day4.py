@@ -27,5 +27,6 @@ if riddle == ans:
 else:
     counter = ans
     
+
 ########################################################################
 # Additional exercises
