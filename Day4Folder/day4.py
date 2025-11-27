@@ -14,10 +14,10 @@ print("hello from day4")
 #     print (counter)
 #     counter += 1
 
-# counter = 50
-# while counter > 0:
-#     print (counter)
-#     counter -= 1
+counter = 50
+while counter > 0:
+    print (counter)
+    counter -= 1
 ########################################################################
 # Task 2:
 
