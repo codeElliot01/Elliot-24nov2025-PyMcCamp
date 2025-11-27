@@ -23,9 +23,8 @@ print("hello from day4")
 riddle = input( "Why was the sailor upset over his report card?")
 ans = "His grades were at sea level"
 if riddle == ans:
-    counter = ans
     print ( "correct!")
-    counter += 1
-    
+else:
+    counter 
 ########################################################################
 # Additional exercises
