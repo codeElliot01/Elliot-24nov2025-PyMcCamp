@@ -21,7 +21,7 @@ print("hello from day4")
 ########################################################################
 # Task 2:
 riddle = input("I am a ball that can be rolled, but never bounced or thrown. What am I?")
-ans = ""
+ans = "an eyeball"
 while riddle != ans:
     riddle = input( "I am a ball that can be rolled, but never bounced or thrown. What am I?")
 print ("correct!")
