@@ -4,7 +4,7 @@ print("hello from day4")
 
 ########################################################################
 # Task 1:
-counter = 10
+counter = 0
 while counter (0, 10):
     print (0, 10)
 
