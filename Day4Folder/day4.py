@@ -9,10 +9,10 @@ print("hello from day4")
 #     print (counter)
 #     counter += 1
 
-counter = 5
-while counter < 33:
-    print (counter)
-    counter += 1
+# counter = 5
+# while counter < 33:
+#     print (counter)
+#     counter += 1
 
 counter = 1
 while counter > 50:
