@@ -15,6 +15,8 @@ while counter < 33:
     counter += 1
 
 counter = 50
+while counter > 1:
+    print (counter)
 ########################################################################
 # Task 2:
 
