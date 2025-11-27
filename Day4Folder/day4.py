@@ -20,8 +20,8 @@ while counter > 0:
     counter -= 1
 ########################################################################
 # Task 2:
-riddle = input()
-
+riddle = input( has to be broken before you can use it?)
+ans = "an egg"
 
 ########################################################################
 # Additional exercises
