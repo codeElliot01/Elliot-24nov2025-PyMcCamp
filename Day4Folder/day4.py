@@ -24,7 +24,7 @@ riddle = input( "Why was the sailor upset over his report card?")
 ans = "His grades were at sea level"
 if riddle == ans:
     counter = ans
-    print ()
+    print ( "correct")
 
 ########################################################################
 # Additional exercises
