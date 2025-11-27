@@ -6,7 +6,7 @@ print("hello from day4")
 # Task 1:
 counter = 10
 while counter (0, 10):
-    print ()
+    print (0, 10)
 
 
 
