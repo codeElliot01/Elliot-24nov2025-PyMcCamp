@@ -20,12 +20,19 @@ print("hello from day4")
 #     counter -= 1
 ########################################################################
 # Task 2:
-riddle = input("I am a ball that can be rolled, but never bounced or thrown. What am I?")
-ans = "an eyeball"
-while riddle != ans:
-    riddle = input( "I am a ball that can be rolled, but never bounced or thrown. What am I?")
-    print ("correct!")
+# riddle = input("I am a ball that can be rolled, but never bounced or thrown. What am I?")
+# ans = "an eyeball"
+# while riddle != ans:
+#     riddle = input( "I am a ball that can be rolled, but never bounced or thrown. What am I?")
+#     print ("correct!")
+
+counter = 0
     
+while counter < 5:
+    riddle = input("I am a ball that can be rolled, but never bounced or thrown. What am I?")
+    ans = "an eyeball"
+
+
 
 ########################################################################
 # Additional exercises
